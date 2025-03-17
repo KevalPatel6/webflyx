@@ -1,5 +1,8 @@
   GNU nano 7.2                              contents.md *                                     
+<<<<<<< HEAD
 # contents
+=======
+>>>>>>> update_dune
 
 - titles.md: The movie titles in the WebFlyx collection
 - classics.csv: A comma-separated list of classic movies
